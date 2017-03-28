@@ -1,6 +1,5 @@
 import pygame
 
-_author_ = 'hchkrdtn'
 
 class Ship():
     def __init__(self, ai_settings, screen):

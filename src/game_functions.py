@@ -5,8 +5,6 @@ import pygame
 from bullet import Bullet
 from alien import Alien
 
-_author_ = 'hchkrdtn'
-
 
 def check_keydown_events(event, ai_settings, screen, ship, bullets):
     """Respond to keypresses."""

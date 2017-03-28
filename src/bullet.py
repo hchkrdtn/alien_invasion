@@ -1,7 +1,6 @@
 import pygame
 from pygame.sprite import Sprite
 
-_author_ = 'hchkrdtn'
 
 class Bullet(Sprite):
     """A class to manage bullets fired from the ship."""
