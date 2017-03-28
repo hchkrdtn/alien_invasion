@@ -1,5 +1,3 @@
-_author_ = 'hchkrdtn'
-
 class GameStats():
 
     """Track statistics for Alien Invasion."""
