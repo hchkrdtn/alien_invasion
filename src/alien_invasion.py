@@ -1,6 +1,5 @@
 import pygame
 
-_author_ = 'hchkrdtn'
 
 from settings import Settings
 from game_stats import GameStats
